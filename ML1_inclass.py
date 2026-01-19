@@ -8,7 +8,7 @@ ML1 In-Class
 # 04_ML_Concepts_I_Foundations/ML1_inclass.py#scrollTo=9723a7ee)
 
 # [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-# (https://colab.research.google.com/github/com/UVADS/DS-3001/blob/main/
+# (https://colab.research.google.com/github.com/UVADS/DS-3001/blob/main/
 # 04_ML_Concepts_I_Foundations/ML1_inclass.ipynb#scrollTo=9723a7ee)
 # %%
 
